@@ -38,35 +38,35 @@ Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
 
 This is a screenshot of the Remix interface with the contract successfully compiled. 
 
-![markdown-image](Pictures/eth_sol1.png)
+![markdown-image](Pictures/eth_sol1.PNG)
 
 This is a screenshot of the undeployed contract, see how there is none available to interact with.
 
-![markdown-image](Pictures/eth_sol2.png)
+![markdown-image](Pictures/eth_sol2.PNG)
 
 This is a screenshot of the interactable contract interface.
 
-![markdown-image](Pictures/eth_sol3.png)
+![markdown-image](Pictures/eth_sol3.PNG)
 
 This is a screenshot of a 1 ether deposit, in wei. Contract balance is the amount of wei equivalent to one ether now.
 
-![markdown-image](Pictures/eth_sol4.png)
+![markdown-image](Pictures/eth_sol4.PNG)
 
 A screenshot of the 10 ether, in wei, deposit. See the transaction information, such as the gas fee.
 
-![markdown-image](Pictures/eth_sol5.png)
+![markdown-image](Pictures/eth_sol5.PNG)
 
 A screenshot of the 5 ether transaction. Note contract balance is always displayed in wei.
 
-![markdown-image](Pictures/eth_sol6.png)
+![markdown-image](Pictures/eth_sol6.PNG)
 
 A screenshot of the 5 ether withdrawl into account1.
 
-![markdown-image](Pictures/eth_sol7.png)
+![markdown-image](Pictures/eth_sol7.PNG)
 
 A screenshot of the 10 ether withdrawl into account2.
 
-![markdown-image](Pictures/eth_sol8.png)
+![markdown-image](Pictures/eth_sol8.PNG)
 
 **Contributors**
 
