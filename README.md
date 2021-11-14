@@ -2,7 +2,7 @@
 
 **Welcome!**
 
-![markdown-image](pictures/eth_sol.png)
+![markdown-image](Pictures/eth_sol.png)
 
 This repository contains the files to a smart contract that automates several aspects of the financial service industry, primarily hosting joint accounts. The smart contract is written through Solidity using the Remix IDE allowing for quick deployment and testing.  
 
@@ -38,35 +38,35 @@ Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
 
 This is a screenshot of the Remix interface with the contract successfully compiled. 
 
-![markdown-image](pictures/eth_sol1.png)
+![markdown-image](Pictures/eth_sol1.png)
 
 This is a screenshot of the undeployed contract, see how there is none available to interact with.
 
-![markdown-image](pictures/eth_sol2.png)
+![markdown-image](Pictures/eth_sol2.png)
 
 This is a screenshot of the interactable contract interface.
 
-![markdown-image](pictures/eth_sol3.png)
+![markdown-image](Pictures/eth_sol3.png)
 
 This is a screenshot of a 1 ether deposit, in wei. Contract balance is the amount of wei equivalent to one ether now.
 
-![markdown-image](pictures/eth_sol4.png)
+![markdown-image](Pictures/eth_sol4.png)
 
 A screenshot of the 10 ether, in wei, deposit. See the transaction information, such as the gas fee.
 
-![markdown-image](pictures/eth_sol5.png)
+![markdown-image](Pictures/eth_sol5.png)
 
 A screenshot of the 5 ether transaction. Note contract balance is always displayed in wei.
 
-![markdown-image](pictures/eth_sol6.png)
+![markdown-image](Pictures/eth_sol6.png)
 
 A screenshot of the 5 ether withdrawl into account1.
 
-![markdown-image](pictures/eth_sol7.png)
+![markdown-image](Pictures/eth_sol7.png)
 
 A screenshot of the 10 ether withdrawl into account2.
 
-![markdown-image](pictures/eth_sol8.png)
+![markdown-image](Pictures/eth_sol8.png)
 
 **Contributors**
 
